@@ -1,6 +1,6 @@
 # Ancient City Ruby 2013 Call for Proposals
 
-So, you are interested in giving a talk at [Anciety City Ruby 2013](http://ancientcityruby.com)?
+So, you are interested in giving a talk at [Ancient City Ruby 2013](http://ancientcityruby.com)?
 
 What better way to submit a talk proposal than via GitHub!
 
