@@ -11,7 +11,8 @@ What better way to submit a talk proposal than via GitHub!
 3. Edit the `README.md` file and type a good description about your talk
    and about yourself
 4. Replace the dummy image with a picture of yourself that we
-   can use to list you on the speakers page when you are accepted.
+   can use to list you on the speakers page when you are accepted.  (NOTE: We prefer a high resolution photo. There is no specific size requirement.  We recommend that you avoid using something low-res, such as 50px x 50px avatar.)
+   )
 5. Create a pull request of your fork. Consider using the title of your
    talk as the pull request subject, as this makes the list of pull requests
    enticing to read.
